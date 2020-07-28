@@ -4,7 +4,7 @@ colorlover==0.2.1
 cufflinks==0.7.2
 cycler==0.10.0
 decorator==4.0.9
-Django==1.9.7
+Django==1.11.29
 entrypoints==0.2.2
 gnureadline==6.3.3
 image==1.5.3
