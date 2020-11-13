@@ -30,7 +30,7 @@ numpy==1.11.0
 pandas==0.18.1
 pexpect==4.1.0
 pickleshare==0.7.2
-Pillow==3.2.0
+Pillow==7.1.0
 plotly==1.10.0
 ptyprocess==0.5.1
 Pygments==2.1.3
