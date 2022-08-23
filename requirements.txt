@@ -22,7 +22,7 @@ mailbox==0.4
 MarkupSafe==0.23
 matplotlib==1.5.1
 mistune==0.7.2
-nbconvert==4.2.0
+nbconvert==6.5.1
 nbformat==4.0.1
 nltk==3.4.5
 notebook==6.1.5
